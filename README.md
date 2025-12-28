@@ -6,38 +6,56 @@ This dashboard is designed using Microsoft Excel and provides a comprehensive an
 
 ## 🎯 Objective 
 
-The objective of this project is to:
+This project aims to design an interactive dashboard using Excel to enable teams to analyze sales data comprehensively and quickly. By displaying key performance indicators (KPIs) across multiple categories such as customer type, city, product, and gender, the dashboard helps in:
 
-* Provide a clear and interactive view of sales performance.
-* Track key metrics such as total sales and active customers.
-* Enable analysis across different dimensions: branches, months, categories, brands, and payment methods.
-* Simplify decision-making by turning raw data into actionable insights.
-* Demonstrate the use of Excel advanced tools (Power Query, Data Model, Pivot Tables, and functions) for professional data analysis.
+* Making data-driven decisions to improve marketing and operational strategies.
+
+* Identifying seasonal trends and monitoring monthly sales performance.
+
+* Discovering opportunities and critical points in customer experience and purchasing behavior.
+
+* Enhancing understanding of the target audience through detailed sales distribution analysis.
 
 ## 🔍Project Features
-Interactive dashboard with charts and KPIs.
-* Power Query for data cleaning and transformation.
-* Data Model for connecting tables.
-* Pivot Tables for flexible analysis.
-* Slicers to filter by month, branch, category, and brand.
+* Interactive dashboard: Comprehensive sales performance view using Pivot Tables and Charts.
+
+* Multi-dimensional analysis: Categorize data by city, customer type, store type, gender, and product.
+
+* Customer satisfaction metrics: Track customer satisfaction levels from "very low" to "very high."
+
+* Monthly performance tracking: A graph illustrating sales trends from January to December.
+
+* Top customers and products: Highlight your top-selling customers and products.
+
+* Flexible filtering: Filter by manager, employee, category, year, quarter, and month.
+
+* Visually appealing design: Use clear charts and graphs to facilitate data reading and decision-making.
+
+* Easy to use: Everything is built into Excel without the need for external tools.
   
 ## 🛠️Tools Used
 
-* Microsoft Excel – main platform for building the dashboard
-* Power Query – for cleaning and transforming raw data
-* Data Model – to connect tables and build relationships
-* Pivot Tables – for multi-dimensional analysis
-* Excel Functions – IF, VLOOKUP/XLOOKUP, SUMIF, COUNTIF, TEXT, DATE
-* Slicers & Charts – for interactive filtering and visualization
+* Data Cleaning• Removed duplicates, extra spaces, and unwanted characters.
+* Standardized formats for dates, text, and numeric values.
+
+* Excel Functions• VLOOKUP for searching and matching values across tables.
+* Arithmetic operations (multiplication, addition, etc.) for calculated fields.
+* General functions for text, numbers, and dates to ensure accuracy.
+
+* Pivot Tables• Summarized and analyzed sales data dynamically.
+* Applied filters and slicers for interactive exploration.
+
+* Measures (Calculated Fields)• Created custom metrics to evaluate KPIs.
+* Used formulas to calculate percentages, totals, and performance indicators.
 
   ## 🖼️ imaage Project
 
-  ![image here](https://res.cloudinary.com/dhlxcif1m/image/upload/f_auto,q_auto/v1766936583/pb6gbrwtams6oqk2tnui.png)
+  ![image here] (https://res.cloudinary.com/dhlxcif1m/image/upload/v1766939241/zjf0a9w7cmtz9wowkjmd.png)
   
 ## 📁 Files 
 
 -  contains raw data, analysis, and charts
-  -  (https://drive.google.com/drive/folders/1rriWi4EGc_NySWv_GxRB-nXPiv3Emike?usp=drive_link)
+  -  https://drive.google.com/drive/folders/1P1Rr9oCwb13-VnndF7X_Mrg6UHxY6fn0?usp=drive_link
 
 ## 🚀 Future Enhancements
 
