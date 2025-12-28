@@ -50,8 +50,7 @@ This project aims to design an interactive dashboard using Excel to enable teams
 
   ## 🖼️ imaage Project
   
-  ![image here] (https://res.cloudinary.com/dhlxcif1m/image/upload/f_auto,q_auto/v1766939241/zjf0a9w7cmtz9wowkjmd.png)
-  
+  ![image here](https://res.cloudinary.com/dhlxcif1m/image/upload/f_auto,q_auto/v1766939241/zjf0a9w7cmtz9wowkjmd.png)
 ## 📁 Files 
 
 -  contains raw data, analysis, and charts
